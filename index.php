@@ -38,3 +38,9 @@ $searchStrings = [
 
 
 wordsReview($searchWords,$searchStrings);
+
+ //add some stupid code
+
+$NewBranch = true;
+
+echo $NewBranch;
